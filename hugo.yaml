@@ -3,7 +3,7 @@
 baseURL: "http://localhost:1313/"
 title: PaperMod
 copyright: "© 2024 Shamsia Afrin Jamema | All Rights Reserved"
-
+theme: [PaperMod]
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
