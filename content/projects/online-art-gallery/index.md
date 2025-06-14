@@ -1,6 +1,5 @@
 ---
 date: '2025-06-14T18:57:13+06:00'
-draft: true
 title: 'Online Art Gallery'
 ---
 

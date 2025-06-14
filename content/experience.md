@@ -1,6 +1,5 @@
 ---
 date: '2025-06-14T18:54:58+06:00'
-draft: true
 title: 'Professional Experience'
 ---
 
